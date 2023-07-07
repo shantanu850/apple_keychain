@@ -57,7 +57,7 @@ String sharedValue = await AppleKeychain.read(key: key, accessGroup: accessGroup
 
 Make sure to configure the appropriate app group identifier in your Xcode project settings.
 
-For more detailed usage examples, please refer to the [example](https://github.com/your-plugin-repo/example) provided.
+For more detailed usage examples, please refer to the [example](https://github.com/shantanu850/apple_keychain) provided.
 
 ## Issues and Contributions
 
@@ -67,9 +67,3 @@ Please report any issues or bugs you encounter by creating an issue on the [GitH
 
 This plugin is released under the [MIT License](https://opensource.org/licenses/MIT).
 ```
-
-Remember to replace `'flutter_keychain_access'` with the actual package name you've chosen, and update the necessary sections with your own project details, links, and examples.
-
-Additionally, you should provide an actual example folder within your plugin's repository, where users can find example code demonstrating the usage of your keychain access plugin.
-
-Feel free to customize the README.md file to suit your plugin's specific functionality and requirements. Good luck with publishing your plugin to pub.dev!
