@@ -1,5 +1,5 @@
 name: apple_keychain
-description: A new Flutter project.
+description: Flutter plugin to access keychain items, and share keys between apps
 version: 0.0.1
 homepage: "https://shullabs.in/"
 
